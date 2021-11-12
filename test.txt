@@ -1,1 +1,2 @@
-This is my local test file.
+This is my local test file
+This is the first change by both users.
