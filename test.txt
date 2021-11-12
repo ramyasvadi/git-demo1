@@ -1,2 +1,1 @@
-This is my local test file
-This is the first change by both users.
+this is the first change by git hub user.
